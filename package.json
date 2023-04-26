@@ -1,0 +1,26 @@
+{
+  "name": "hw38",
+  "version": "1.0.0",
+  "description": "Это ladder (лестница) – объект, который позволяет подниматься вверх и спускаться:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrianapopp/hw38.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrianapopp/hw38/issues"
+  },
+  "homepage": "https://github.com/andrianapopp/hw38#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
